@@ -1,0 +1,14 @@
+<IronSharkInc>
+
+    <!-- plains, hills, forest_mountains, burntforest_mountains, desert_mountains, mountains -->
+    <set xpath="//property[@name='clusters']/@value">0,0,0</set>
+
+    <!-- plains, hills, forest_mountains, burntforest_mountains, desert_mountains, mountains, lakes,
+    rivers, craters, canyons, border -->
+    <set xpath="//property[@name='scale']/@value">0,0</set>
+
+    <!-- lakes, rivers, craters, canyons, wilderness, forest_wilderness, wasteland_wilderness -->
+    <!-- oldwest, forest_countrytown, bforest_countrytown, bforest_town, countrytown, town, city, wasteland_city, citybig, roadside -->
+    <set xpath="//property[@name='count']/@value">0,0,0</set>
+
+</IronSharkInc>

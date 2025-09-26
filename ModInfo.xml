@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<Name value="ISI-Flat" />
+	<DisplayName value="ISI Flat" />
+	<Version value="2.3.0.0" />
+	<Description value="Used to generate flat maps" />
+	<Author value="IronSharkInc" />
+	<Website value="https://github.com/IronSharkInc" />
+</xml>

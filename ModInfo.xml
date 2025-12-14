@@ -2,7 +2,7 @@
 <xml>
 	<Name value="ISI-Flat" />
 	<DisplayName value="ISI Flat" />
-	<Version value="2.3.0.0" />
+	<Version value="2.5.0.1" />
 	<Description value="Used to generate flat maps" />
 	<Author value="IronSharkInc" />
 	<Website value="https://github.com/IronSharkInc" />
